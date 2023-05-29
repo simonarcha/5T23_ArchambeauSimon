@@ -1,0 +1,7 @@
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\bin\Debug\jeux_wordle.exe.config
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\bin\Debug\jeux_wordle.exe
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\bin\Debug\jeux_wordle.pdb
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\obj\Debug\jeux_wordle.csproj.AssemblyReference.cache
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\obj\Debug\jeux_wordle.csproj.CoreCompileInputs.cache
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\obj\Debug\jeux_wordle.exe
+C:\Users\sar20\Documents\1 code\jeux wordle\tNew\jeux_wordle\jeux_wordle\obj\Debug\jeux_wordle.pdb
